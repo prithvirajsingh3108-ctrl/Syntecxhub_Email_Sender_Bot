@@ -1,0 +1,13 @@
+SYNTECXHUB — SAMPLE REPORT
+==========================
+
+This is a placeholder attachment included with every email sent by the
+Syntecxhub Email Sender Bot.
+
+Replace this file with your actual PDF, brochure, or document.
+Supported formats: PDF, DOCX, XLSX, PNG, JPG, or any other file type.
+
+Company   : Syntecxhub
+Project   : Email Sender Bot
+Task      : Python Internship — Task 3
+Version   : 1.0.0
