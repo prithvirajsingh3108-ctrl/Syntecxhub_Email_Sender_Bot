@@ -347,8 +347,8 @@ python3 main.py --csv my_contacts.csv --dry-run
 
 ```
 ╔══════════════════════════════════════════╗
-║   Syntecxhub Email Sender Bot  v1.0.0   ║
-║   Python Internship — Task 3            ║
+║   Syntecxhub Email Sender Bot  v1.0.0    ║
+║   Python Internship — Task 3             ║
 ╚══════════════════════════════════════════╝
 
 ── Running pre-flight checks ────────────────
